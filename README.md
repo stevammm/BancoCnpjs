@@ -1,6 +1,6 @@
 
 <h1> BancoCnpjs </h1>
-<h3>O arquivo php consegue armazenar milhões de usuários oque no caso funciona para quaisquer tipo de registro, seja usuários, produtos, contas com email etc... </h3>
+<h3>O arquivo php consegue armazenar milhões de usuários, oque no caso funciona para quaisquer tipo de registro, sejam eles usuários, produtos, contas com email etc... </h3>
 <h6>Os cnpjs não podem ser enviados para o github por conta do tamanho deles, sendo o limite do github apenas 250MB por projeto, e os cnpjs serem mais de 10GB</h6>
 <br>
 <hr>
